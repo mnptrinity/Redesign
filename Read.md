@@ -88,3 +88,7 @@ S.NO | HIGH LEVEL LANGUAGE | LOW LEVEL LANGUAGE
 * `SpiderMonkey` — the first JavaScript engine, which back in the days powered Netscape Navigator, and today powers Firefox
 
 * `JavaScriptCore` — open source, marketed as Nitro and developed by Apple for Safari
+
+
+
+[Go To Top](#javascript) ->
