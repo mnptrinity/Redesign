@@ -150,3 +150,5 @@ Although the syntax is **quite different**, the underlying result is nearly the 
 
 In this this, we learned about the similarities and differences between JavaScript `constructor functions` and `ES6 classes`. Both classes and constructors imitate an object-oriented inheritance model to JavaScript, which is a prototype-based inheritance language.
 
+
+
