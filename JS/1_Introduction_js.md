@@ -4,11 +4,6 @@
 
 
 
-
-
-
-
-
 # History Of JavaScript
 >`Brendan Eich`, a Netscape Communications Corporation programmer, created JavaScript in September 1995. It took Eich only 10 days to develop the scripting language, then known as `Mocha`.
 
