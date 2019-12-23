@@ -65,7 +65,7 @@ Object-oriented programming – As the name suggests uses objects in programming
 ![oops concept image](https://miro.medium.com/max/1000/1*y6Opk-cAQVe6uyKYH3306g.png)
 
 
-# More About Javascript 😊
+# [More About Javascript 😊](https://github.com/mnptrinity/Redesign/blob/update/2/JS/moreabout_java.md)
 
 
 
