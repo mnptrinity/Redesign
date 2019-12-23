@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Source](https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
 # **JavaScript**
 
@@ -65,9 +64,5 @@ Object-oriented programming – As the name suggests uses objects in programming
 
 
 # More About Javascript 😊
-=======
-:smile:
 
 
-
->>>>>>> 828a9a5ac6617837db4a72177d0d3c53b98c50a7
