@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 
 ![Source](https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
 # **JavaScript**
