@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 ![Source](https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
 # **JavaScript**
 
@@ -30,7 +32,7 @@ console.log(display)
 
 ## **Advantaged of JavaSctipt**
 
-Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example **Chrome**, **Mozilla Firefox** , **Safari** and **every browser** you know as of today, supports Javascript.
+`Javascript` is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example **Chrome**, **Mozilla Firefox** , **Safari** and **every browser** you know as of today, supports Javascript.
 
 JavaScript usage has now extended to **mobile app development**, **desktop app development**, and **game development**. This opens many opportunities for you as `Javascript Programmer`.
 
@@ -64,5 +66,7 @@ Object-oriented programming – As the name suggests uses objects in programming
 
 
 # More About Javascript 😊
+
+
 
 
