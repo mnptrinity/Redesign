@@ -1,6 +1,6 @@
 
 ![Source](https://nadia-training.com/wp-content/uploads/2019/03/JavaScript-Essentials-Course.jpg)
-# **JavaScript**
+# **JavaScript** 
 
 JavaScript, is a [high-level](#difference-between), [just-in-time compiled](#just-in-time-compiled), [object-oriented programming language](#object-oriented-programming) that conforms to the ECMAScript specification JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
@@ -64,8 +64,7 @@ Object-oriented programming – As the name suggests uses objects in programming
 ![oops concept image](https://miro.medium.com/max/1000/1*y6Opk-cAQVe6uyKYH3306g.png)
 
 
-# [More About Javascript 😊](https://github.com/mnptrinity/Redesign/blob/update/2/JS/moreabout_java.md)
-
+# [More About Javascript ](https://github.com/mnptrinity/Redesign/blob/update/2/JS/moreabout_java.md)😊   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ⬆️[Go To Top](#javascript)
 
 
 
