@@ -7,17 +7,17 @@ JavaScript, is a [high-level](#difference-between), [just-in-time compiled](#jus
 ## **The topic's we learn in this Bootcamp is**
 
 * [`Data Types`](https://github.com/mnptrinity/Redesign/blob/master/JS/2_Data_Types.md)
-* [`variables`](https://github.com/mnptrinity/Redesign/blob/master/JS/2_Data_Types.md),
-* [`Arrays`](https://github.com/mnptrinity/Redesign/blob/master/JS/2_Data_Types.md),
+* [`variables`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/7_Variable.md),
+* [`Arrays`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/9_Array.md),
 * [`conditional statements`](),
-* [`Function`](),
-* [`closure`](),
-* [`class`](),
+* [`Function`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/3_Function.md),
+* [`closure`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/5_Closure.md),
+* [`class`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/4_Class_in_js.md),
 * [`objects`](),
-* [`callback`](),
+* [`callback`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/6_Call%20Back.md),
 * [`async and await`](),
 * [`promise`](),
-* [`eventloop`](),
+* [`eventloop`](https://github.com/mnptrinity/Redesign/blob/update/2/JS/8_Event_loop.md),
 * [`rest and spread operators`]().
 
 
